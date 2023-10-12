@@ -1,0 +1,1 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(382,5): error MSB3491: Could not write lines to file "Debug\Project.tlog\Project.lastbuildstate". Access to the path is denied.
