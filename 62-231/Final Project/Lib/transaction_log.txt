@@ -1,0 +1,61 @@
+2024-04-02 18:15:37 - Updated availability status of book: Asit to available
+2024-04-02 18:25:30: Login: asit
+2024-04-02 18:26:37: Logout: asit
+2024-04-02 18:31:59 - User logged in: asit
+2024-04-02 18:32:19 - Unreserved book: 1984
+2024-04-02 18:32:30 - User logged out: asit
+2024-04-02 18:34:05 - User logged in: asit
+2024-04-02 18:34:10 - Checked out book: 1984
+2024-04-02 18:34:19 - Checked in book: 1984
+2024-04-02 18:34:21 - User logged out: asit
+2024-04-03 12:39:53 - User logged in: asit
+2024-04-03 12:40:46 - User logged out: asit
+2024-04-03 12:48:54 - User logged in: asit
+2024-04-03 12:49:43 - Updated availability status of book: B011 to unavailable
+2024-04-03 12:50:49 - Checked out book: B012
+2024-04-03 12:50:55 - User logged out: asit
+2024-04-03 18:39:37 - User logged in: Alam
+2024-04-03 18:39:48 - Updated availability status of book: B012 to unavailable
+2024-04-03 18:40:44 - Reserved book: B034
+2024-04-03 18:40:46 - User logged out: Alam
+2024-04-03 21:22:38 - User logged in: Asit
+2024-04-03 21:23:05 - Updated availability status of book: B045 to unavailable
+2024-04-03 21:23:14 - Updated availability status of book: B029 to unavailable
+2024-04-03 21:23:17 - User logged out: Asit
+2024-04-05 12:48:34 - User logged in: ComSic
+2024-04-05 12:48:50 - Reserved book: B009
+2024-04-05 12:49:00 - Checked out book: B025
+2024-04-05 12:49:04 - User logged out: ComSic
+2024-04-05 12:49:37 - User logged in: Alam
+2024-04-05 12:49:58 - Updated availability status of book: B019 to unavailable
+2024-04-05 12:50:14 - Checked in book: B025
+2024-04-05 12:50:25 - Updated availability status of book: B022 to unavailable
+2024-04-05 12:50:28 - User logged out: Alam
+2024-04-05 12:51:43 - User logged in: Asit
+2024-04-05 12:51:52 - Updated availability status of book: B029 to available
+2024-04-05 12:51:55 - User logged out: Asit
+2024-04-05 13:01:47 - User logged in: Alam
+2024-04-05 13:01:50 - User logged out: Alam
+2024-04-05 13:03:46 - User logged in: Alam
+2024-04-05 13:03:52 - User logged out: Alam
+2024-04-05 13:04:36 - User logged in: Asit
+2024-04-05 13:05:24 - Unreserved book: B009
+2024-04-05 13:05:26 - User logged out: Asit
+2024-04-05 13:09:15 - User logged in: Asit
+2024-04-05 13:09:16 - User logged out: Asit
+2024-04-05 13:09:39 - User logged in: Alam
+2024-04-05 13:09:41 - User logged out: Alam
+2024-04-05 15:49:38 - User logged in: Asit
+2024-04-05 15:49:41 - User logged out: Asit
+2024-04-06 18:40:53 - User logged in: Asit
+2024-04-06 18:43:39 - Updated availability status of book: B009 to available
+2024-04-06 18:43:43 - Checked out book: B009
+2024-04-06 18:43:45 - User logged out: Asit
+2024-04-07 00:02:16 - User logged in: Asit
+2024-04-07 00:02:31 - Checked out book: B008
+2024-04-07 00:02:37 - User logged out: Asit
+2024-04-07 00:04:35 - User logged in: Alam
+2024-04-07 00:04:43 - Checked in book: B009
+2024-04-07 00:04:51 - User logged out: Alam
+2024-04-07 00:05:36 - User logged in: Asit
+2024-04-07 00:06:49 - User logged out: Asit

@@ -1,0 +1,51 @@
+Title,Author,Genre,Barcode,No,No,ReservationDate,CheckOutDate,CheckInDate
+The Great Gatsby,F. Scott Fitzgerald,Fiction,B001,Yes,No,,,2024-04-01
+To Kill a Mockingbird,Harper Lee,Fiction,B002,Yes,No,,,
+1984,George Orwell,Science Fiction,B003,Yes,No,,2024-04-02,2024-04-02
+Pride and Prejudice,Jane Austen,Romance,B004,Yes,No,,,
+The Catcher in the Rye,J.D. Salinger,Fiction,B005,Yes,No,,2024-04-02,2024-04-02
+The Hobbit,J.R.R. Tolkien,Fantasy,B006,No,Yes,2024-04-15,2024-04-01,2024-04-10
+The Lord of the Rings,J.R.R. Tolkien,Fantasy,B007,Yes,No,,,
+The Da Vinci Code,Dan Brown,Mystery,B008,No,No,,2024-04-07,
+The Catcher in the Rye,J.D. Salinger,Fiction,B009,Yes,No,,2024-04-06,2024-04-07
+The Hobbit,J.R.R. Tolkien,Fantasy,B010,No,Yes,2024-04-15,2024-04-01,2024-04-10
+The Alchemist,Paulo Coelho,Fiction,B011,Yes,No,,2024-04-03,
+Harry Potter and the Philosopher's Stone,J.K. Rowling,Fantasy,B012,No,No,,,
+The Hunger Games,Suzanne Collins,Science Fiction,B013,Yes,No,,,
+The Girl with the Dragon Tattoo,Stieg Larsson,Mystery,B014,Yes,No,,,
+The Help,Kathryn Stockett,Historical Fiction,B015,Yes,No,,,
+Gone with the Wind,Margaret Mitchell,Romance,B016,Yes,No,,,
+Brave New World,Aldous Huxley,Dystopian Fiction,B017,Yes,No,,,
+The Road,Cormac McCarthy,Dystopian Fiction,B018,Yes,No,,,
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction,B019,No,No,,,
+The Kite Runner,Khaled Hosseini,Literary Fiction,B020,Yes,No,,,2024-04-03
+The Picture of Dorian Gray,Oscar Wilde,Fiction,B021,Yes,No,,,
+Frankenstein,Mary Shelley,Horror,B022,No,No,,,
+Moby-Dick,Herman Melville,Adventure,B023,Yes,No,,,
+The Count of Monte Cristo,Alexandre Dumas,Adventure,B024,Yes,No,,,
+Crime and Punishment,Fyodor Dostoevsky,Psychological Fiction,B025,Yes,No,,2024-04-05,2024-04-05
+The Brothers Karamazov,Fyodor Dostoevsky,Philosophical Fiction,B026,Yes,No,,,
+The Name of the Wind,Patrick Rothfuss,Fantasy,B027,Yes,No,,,
+The Handmaid's Tale,Margaret Atwood,Dystopian Fiction,B028,Yes,No,,,
+The Road Less Traveled,M. Scott Peck,Self-help,B029,Yes,No,,,
+The Bell Jar,Sylvia Plath,Autobiographical Fiction,B030,Yes,No,,,
+The Shining,Stephen King,Horror,B031,Yes,No,,,
+The Stand,Stephen King,Post-Apocalyptic Fiction,B032,Yes,No,,,
+One Hundred Years of Solitude,Gabriel García Márquez,Magical Realism,B033,Yes,No,,,
+Beloved,Toni Morrison,Literary Fiction,B034,No,Yes,2024-04-17,,
+The Godfather,Mario Puzo,Crime Fiction,B035,Yes,No,,,
+A Game of Thrones,George R.R. Martin,Fantasy,B036,Yes,No,,,
+Fahrenheit 451,Ray Bradbury,Dystopian Fiction,B037,Yes,No,,,
+The Grapes of Wrath,John Steinbeck,Realistic Fiction,B038,Yes,No,,,
+Lord of the Flies,William Golding,Allegorical Novel,B039,Yes,No,,,
+The Catcher in the Rye,J.D. Salinger,Fiction,B040,Yes,No,,,
+The Hobbit,J.R.R. Tolkien,Fantasy,B041,Yes,No,,,
+The Lord of the Rings,J.R.R. Tolkien,Fantasy,B042,Yes,No,,,
+The Da Vinci Code,Dan Brown,Mystery,B043,Yes,No,,,
+The Great Gatsby,F. Scott Fitzgerald,Fiction,B044,Yes,No,,,
+To Kill a Mockingbird,Harper Lee,Fiction,B045,No,No,,,
+1984,George Orwell,Science Fiction,B046,Yes,No,,,
+Pride and Prejudice,Jane Austen,Romance,B047,Yes,No,,,
+The Catcher in the Rye,J.D. Salinger,Fiction,B048,Yes,No,,,
+The Hobbit,J.R.R. Tolkien,Fantasy,B049,Yes,No,,,
+The Lord of the Rings,J.R.R. Tolkien,Fantasy,B050,Yes,No,,,
